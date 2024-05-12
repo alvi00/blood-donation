@@ -1,0 +1,46 @@
+/* GOOGLE FONT */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+/* VARIABLES */
+:root{
+    /* COLORS */
+    --primary-color : hsl(209, 100%, 17%);
+    --secondary-color: hsl(211, 92%, 85%);  
+    --red-color : hsl(357, 96%, 42%);
+    --dark-red : hsl(356, 99%, 32%); 
+    --white-color : hsl(0, 0%, 100%); 
+
+    /* BACKGROUND-COLOR */
+    --background-color : hsl(207, 100%, 95%); 
+
+    /* FONT-WEIGHT */
+    --big-font-weight: 800;
+    --medium-font-weight: 600;
+    --normal-font-weight: 400;
+}
+
+/* BASE */
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+/* BODY */
+body {
+    font-family: 'Poppins';
+    height: auto;
+    background-color: var(--background-color);
+    overflow-x: hidden;
+}
+
+/* SCROLL BAR */
+
+
+/* NAVBAR */
+
+    /* BREAKPOINTS */
+
+/* Container */
+
+    /* BREAKPOINTS */
